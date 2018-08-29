@@ -7,3 +7,7 @@ jsc
 !jsc/extra_headers
 *.gz
 *.bz2
+.gradle/
+.idea/
+.vscode/
+local.properties
